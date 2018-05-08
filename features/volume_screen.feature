@@ -1,4 +1,4 @@
-@Volume
+@volume
 Feature: User is able to convert Volume units
   Background:
     Given I click on Got it button

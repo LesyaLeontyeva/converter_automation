@@ -15,7 +15,7 @@ Feature: User is able convert area units
     And I see "Sq Metre" in To header
     When I click on Swap button
     Then I see "Sq Metre" in From header
-    And I see "Sq Kiometre" in To header
+    And I see "Sq Kilometre" in To header
 
    Scenario Outline: User is able to convert default units
      Given I click on Clear button
